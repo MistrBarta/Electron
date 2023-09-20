@@ -5,3 +5,8 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+.tittle {
+  font-size: 28px;
+  text-align: center;
+}
